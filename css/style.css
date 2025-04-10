@@ -1,0 +1,59 @@
+* {
+    scroll-behavior: smooth;    
+}
+
+
+
+h1 { 
+    font-family: "inriaSerif",serif;                                          
+    font-size: 30px;
+    color: black;
+    text-align: center;
+   
+    padding: 10px;
+}
+ 
+h2 { 
+    font-family: "inriaSerif",serif;                                          
+    font-size: 20px;
+    color: black;
+    text-align: center;
+    background-color: #E7E3A3;
+    padding: 10px;
+}
+
+p { 
+   font-family: inriaSans sans-serif; 
+   text-align: center;  
+ }
+
+.image-placeholder {
+    display: flex;
+    justify-content: right;
+}
+
+/* unvisited link */
+a:link {
+    color: #aca76d;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: green;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: hotpink;
+  }
+  
+  /* selected link */
+  a:active {
+    color: blue;
+  }
+  nav{
+    background-color: #E7E3A3;
+
+  }
+
+ 

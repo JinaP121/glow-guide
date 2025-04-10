@@ -1,0 +1,45 @@
+@font-face {
+    font-family: 'Inria Sans';
+    src: url('InriaSans-Regular.woff2') format('woff2'),
+        url('InriaSans-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inria Serif';
+    src: url('InriaSerif-BoldItalic.woff2') format('woff2'),
+        url('InriaSerif-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inria Sans';
+    src: url('InriaSans-BoldItalic.woff2') format('woff2'),
+        url('InriaSans-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inria Sans';
+    src: url('InriaSans-Bold.woff2') format('woff2'),
+        url('InriaSans-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter 18pt';
+    src: url('Inter18pt-SemiBold.woff2') format('woff2'),
+        url('Inter18pt-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
